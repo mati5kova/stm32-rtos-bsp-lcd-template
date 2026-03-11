@@ -11,7 +11,7 @@ Mini template za **STM32H750B-DK** z uporabo **FreeRTOS-a** in LCD zaslona
 
 ## Delovanja
 
-https://github.com/mati5kova/stm32-rtos-bsp-lcd-template/raw/main/preview.mp4
+https://github.com/user-attachments/assets/f299ed59-69d8-404c-9d34-23ac51ffff00
 
 ## Bodi pazljiv
 
