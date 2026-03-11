@@ -11,7 +11,7 @@ Mini template za **STM32H750B-DK** z uporabo **FreeRTOS-a** in LCD zaslona
 
 ## Delovanja
 
-<video src="preview.mov" controls autoplay muted loop playsinline width="900"></video>
+https://github.com/mati5kova/stm32-rtos-bsp-lcd-template/blob/main/preview.mp4
 
 Če se video ne prikaže ga odpri direktno: [preview.mov](preview.mov).
 
